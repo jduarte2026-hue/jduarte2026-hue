@@ -18,3 +18,8 @@
 ![Musica](https://img.shields.io/badge/Música-3b1f6b?style=flat&logo=spotify&logoColor=c4b5fd)
 
 </div>
+---
+
+## 📂 Proyectos
+
+[![EID MATE](https://github-readme-stats.vercel.app/api/pin/?username=jduarte2026-hue&repo=EID_MATE1133&theme=tokyonight&title_color=9b59b6&border_color=3b1f6b)](https://github.com/jduarte2026-hue/EID_MATE1133)
