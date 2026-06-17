@@ -2,9 +2,7 @@
 
 <img src="https://media.tenor.com/pUYdH-cRJfQAAAAj/coucou-mon-c%C5%93ur.gif" width="150">
 
-# Hello, I am Josefa
-
-🎓 Estudiante de Ingenieria Civil Informatica
+<h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=9B59B6&center=true&vCenter=true&width=435&lines=Hello,+I+am+Josefa!;Estudiante+de+Ing.+Civil+Informatica" alt="Typing SVG" /></h1>
 
 ---
 
