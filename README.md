@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jduarte2026-hue/jduarte2026-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.tenor.com/pUYdH-cRJfQAAAAj/coucou-mon-c%C5%93ur.gif" width="150">
 
-Here are some ideas to get you started:
+# Hello, I am Josefa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudiante de Ingenieria Civil Informatica
+
+---
+
+## </> Skills
+
+![Python](https://img.shields.io/badge/Python%20(aprendiendo)-3b1f6b?style=flat&logo=python&logoColor=c4b5fd)
+![Git](https://img.shields.io/badge/Git%20(aprendiendo)-3b1f6b?style=flat&logo=git&logoColor=c4b5fd)
+![Matematicas](https://img.shields.io/badge/Matemáticas-3b1f6b?style=flat&logo=wolfram&logoColor=c4b5fd)
+![Diseño](https://img.shields.io/badge/Diseño%20y%20personalización-3b1f6b?style=flat&logo=figma&logoColor=c4b5fd)
+![Organización](https://img.shields.io/badge/Organización-3b1f6b?style=flat&logo=notion&logoColor=c4b5fd)
+![Musica](https://img.shields.io/badge/Música-3b1f6b?style=flat&logo=spotify&logoColor=c4b5fd)
+
+</div>
